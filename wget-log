@@ -1,0 +1,11 @@
+--2025-05-04 07:59:06--  https://www.etoro.com/discover/people/results?copyblock=false
+Resolving www.etoro.com (www.etoro.com)... 104.18.34.56, 172.64.153.200
+Connecting to www.etoro.com (www.etoro.com)|104.18.34.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘results?copyblock=false’
+
+results?copyblock=f     [<=>                 ]       0  --.-KB/s               results?copyblock=f     [ <=>                ] 132.05K  --.-KB/s    in 0.07s   
+
+2025-05-04 07:59:06 (1.87 MB/s) - ‘results?copyblock=false’ saved [135222]
+
